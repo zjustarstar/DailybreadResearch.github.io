@@ -1,5 +1,6 @@
 {
   "label": "dailybreadResearch",
+  "filename": "default.md",
   "children": [
     {
       "label": "基础研究",
@@ -26,17 +27,6 @@
     },
     {
       "label": "知识产权",
-      "children": [
-        {
-          "label": "专利"
-        },
-        {
-          "label": "论文"
-        }
-      ]
-    },
-    {
-      "label": "test",
       "children": [
         {
           "label": "专利"
