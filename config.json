@@ -34,6 +34,17 @@
           "label": "论文"
         }
       ]
+    },
+    {
+      "label": "test",
+      "children": [
+        {
+          "label": "专利"
+        },
+        {
+          "label": "论文"
+        }
+      ]
     }
   ]
 }
