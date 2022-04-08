@@ -1,0 +1,39 @@
+{
+  "label": "dailybreadResearch.github.io",
+  "children": [
+    {
+      "label": "基础研究",
+      "filename": "base_research.md",
+      "children": [
+        {
+          "label": "相似图像检索",
+          "filename": "similar_img.md"
+        }
+      ]
+    },
+    {
+      "label": "产品线支持",
+      "children": [
+        {
+          "label": "PBN: 曼陀罗自动生成、纯色提取、线框质量检测",
+          "filename": "PBN.md"
+        }
+      ]
+    },
+    {
+      "label": "基础研究",
+      "children": []
+    },
+    {
+      "label": "知识产权",
+      "children": [
+        {
+          "label": "专利"
+        },
+        {
+          "label": "论文"
+        }
+      ]
+    }
+  ]
+}
