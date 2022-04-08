@@ -1,17 +1,26 @@
 {
-  "label": "dailybreadResearch",
+  "label": "乐信产学研",
   "filename": "default.md",
   "children": [
     {
-      "label": "基础研究",
+      "label": "Puzzle类谜面生成",
       "filename": "base_research.md",
       "children": [
         {
-          "label": "相似图像检索",
+          "label": "HappyPixel",
+          "filename": "similar_img.md"
+        }
+        {
+          "label": "FlowFree",
+          "filename": "similar_img.md"
+        }
+        {
+          "label": "Solitaire",
           "filename": "similar_img.md"
         }
       ]
     },
+   
     {
       "label": "产品线支持",
       "children": [
@@ -19,12 +28,37 @@
           "label": "PBN: 曼陀罗自动生成、纯色提取、线框质量检测",
           "filename": "PBN.md"
         }
+        {
+          "label": "Jigsaw",
+          "filename": "PBN.md"
+        }
       ]
     },
+
     {
       "label": "基础研究",
-      "children": []
+      "children": [
+        {
+          "label": "相似图像检索"
+        },
+        {
+          "label": "图像调色板提取"
+        }
+        {
+          "label": "图像美学评价"
+        }
+        {
+          "label": "基于线框图的图像生成"
+        }
+        {
+          "label": "像素图生成"
+        }
+        {
+          "label": "基于静态图的动图生成"
+        }
+      ]
     },
+
     {
       "label": "知识产权",
       "children": [
@@ -35,6 +69,22 @@
           "label": "论文"
         }
       ]
-    }
+    },
+
+    {
+      "label": "AI前沿",
+      "filename": "base_research.md",
+      "children": [
+        {
+          "label": "样式传输",
+          "filename": "similar_img.md"
+        }
+        {
+          "label": "文字生成图像",
+          "filename": "similar_img.md"
+        }
+      ]
+    },
+
   ]
 }
