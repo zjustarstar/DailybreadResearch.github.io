@@ -1,8 +1,8 @@
 {
-  "label": "dailybreadResearch.github.io",
+  "label": "dailybreadResearch",
   "children": [
     {
-      "label": "基础研究test",
+      "label": "基础研究",
       "filename": "base_research.md",
       "children": [
         {
