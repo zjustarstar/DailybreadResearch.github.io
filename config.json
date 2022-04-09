@@ -8,15 +8,19 @@
       "children": [
         {
           "label": "HappyPixel",
-          "filename": "similar_img.md"
+          "filename": "puzzle_happypixel.md"
         },
         {
           "label": "FlowFree",
-          "filename": "similar_img.md"
+          "filename": "puzzle_flowfree.md"
         },
         {
           "label": "Solitaire",
-          "filename": "similar_img.md"
+          "filename": "puzzle_solitaire.md"
+        },
+        {
+          "label": "智能体玩家",
+          "filename": "puzzle\\puzzle_aiagent.md"
         }
       ]
     },
