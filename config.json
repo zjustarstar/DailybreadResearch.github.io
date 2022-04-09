@@ -9,11 +9,11 @@
         {
           "label": "HappyPixel",
           "filename": "similar_img.md"
-        }
+        },
         {
           "label": "FlowFree",
           "filename": "similar_img.md"
-        }
+        },
         {
           "label": "Solitaire",
           "filename": "similar_img.md"
@@ -27,7 +27,7 @@
         {
           "label": "PBN: 曼陀罗自动生成、纯色提取、线框质量检测",
           "filename": "PBN.md"
-        }
+        },
         {
           "label": "Jigsaw",
           "filename": "PBN.md"
@@ -43,16 +43,16 @@
         },
         {
           "label": "图像调色板提取"
-        }
+        },
         {
           "label": "图像美学评价"
-        }
+        },
         {
           "label": "基于线框图的图像生成"
-        }
+        },
         {
           "label": "像素图生成"
-        }
+        },
         {
           "label": "基于静态图的动图生成"
         }
@@ -78,7 +78,7 @@
         {
           "label": "样式传输",
           "filename": "similar_img.md"
-        }
+        },
         {
           "label": "文字生成图像",
           "filename": "similar_img.md"
