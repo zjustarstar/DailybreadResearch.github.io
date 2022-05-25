@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fdeb43d0-c145-4885-9f55-b51dd1ff10f2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article/IP/patent.md" beforeDir="false" afterPath="$PROJECT_DIR$/article/IP/patent.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/article/product/PBN_mandala.md" beforeDir="false" afterPath="$PROJECT_DIR$/article/product/PBN_mandala.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,8 +50,8 @@
         <entry file="file://$PROJECT_DIR$/article/product/PBN_mandala.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-100">
-                <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <first_editor relative-caret-position="300">
+                <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
               </first_editor>
               <second_editor />
             </state>
@@ -168,7 +167,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649601760240</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="增加了一些图，完善了pbn的材料">
+      <created>1653469358328</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653469358328</updated>
+    </task>
+    <task id="LOCAL-00003" summary="增加了一些图，完善了pbn的材料">
+      <created>1653477578437</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653477578437</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -196,7 +209,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加了一些文件和子文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加了一些文件和子文件" />
+    <MESSAGE value="增加了一些图，完善了pbn的材料" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加了一些图，完善了pbn的材料" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/article/puzzle_aiagent.md" />
@@ -341,8 +355,8 @@
     <entry file="file://$PROJECT_DIR$/article/product/PBN_mandala.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-100">
-            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <first_editor relative-caret-position="300">
+            <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
           </first_editor>
           <second_editor />
         </state>
