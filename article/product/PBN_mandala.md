@@ -4,8 +4,6 @@
 PBN产品中，内容具有决定性作用。线框图是内容的重要组成部分，制作线框图也是最耗时的工作。
 前期，我们探索了从内容（图像）中直接提取线框图，如下图所示。事实证明，这条路很难走通，
 ![从图像中提取线框图](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/product/imgs/mandala_motivation.png)
-前期，我们探索了从内容（图像）中直接提取线框图，如下图所示。事实证明，这条路很难走通。
-![从图像中提取线框图](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/product/imgs/mandala_motivation.png)
 
 具体原因主要是：
 - PBN中的线框图都是以封闭区域进行表示的，直接从图像中，很难提取到具有光滑边界的闭合区域线框图。
