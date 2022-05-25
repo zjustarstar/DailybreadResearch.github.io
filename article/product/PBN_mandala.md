@@ -34,7 +34,7 @@ PBN产品中，内容具有决定性作用。线框图是内容的重要组成�
 创造性，每次运行均能生成不同的曼陀罗图案，且能根据样图进行自动上色。下面是一些我们的
 算法生成的曼陀罗图案。
 ![曼陀罗效果图](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/product/imgs/mandala_regular.png)
-![曼陀罗效果图](https://github.com/zjustarstar/dailybreadResearch.github.io/tree/gh-pages/article/product/imgs/imgs/mandala_polygon.png)
+![曼陀罗效果图](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/product/imgs/mandala_polygon.png)
 
 产品线也对算法自动生成的图案和设计师生成的图案进行了AB测。数据如下：
 + 到2021年10月份，我们自动生成的曼陀罗图案已经上线45组。为了AB测，选用其他同类型同期的曼陀罗素材51张
