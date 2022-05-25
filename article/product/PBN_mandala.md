@@ -2,13 +2,12 @@
 
 ### 1. 动机(Motivation)
 PBN产品中，内容具有决定性作用。线框图是内容的重要组成部分，制作线框图也是最耗时的工作。
-前期，我们探索了从内容（图像）中直接提取线框图，如下图所示。事实证明，这条路很难走通，
-![从图像中提取线框图](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/product/imgs/mandala_motivation.png)
-
-具体原因主要是：
+前期，我们探索了从内容（图像）中直接提取线框图，如下图所示。事实证明，这条路很难走通，具体原因主要是：
 - PBN中的线框图都是以封闭区域进行表示的，直接从图像中，很难提取到具有光滑边界的闭合区域线框图。
 - 公司的设计师在创作线框图时，虽然会参考相关的内容图像，但是在绘制线框时，会加入自己的
 想象和修改，这种“创作”过程，AI还无法做到。
+![从图像中提取线框图](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/product/imgs/mandala_motivation.png)
+
 
 虽然从自然图像中无法提取出具有艺术效果的线框图，但是我们发现，设计师创造的曼陀罗图相对
 比较规则，有可能通过算法自动生成曼陀罗图，从而减少人工在曼陀罗图案上的投入。毕竟任何线
@@ -26,6 +25,7 @@ PBN产品中，内容具有决定性作用。线框图是内容的重要组成�
 
 这些要求同时也是对算法设计的约束。我们在尝试了多种算法和技术路线后，最终完成了一套
 自动化的曼陀罗图案生成工具。整个系统的框架如下图所示：
+
 ![曼陀罗图案生成框架](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/product/imgs/mandala_flowchart.png)
 
 

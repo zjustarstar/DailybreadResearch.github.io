@@ -50,8 +50,8 @@
         <entry file="file://$PROJECT_DIR$/article/product/PBN_mandala.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="300">
-                <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+              <first_editor relative-caret-position="50">
+                <caret line="36" column="130" selection-start-line="36" selection-start-column="130" selection-end-line="36" selection-end-column="130" />
               </first_editor>
               <second_editor />
             </state>
@@ -181,7 +181,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653477578437</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="修改了图片地址">
+      <created>1653480676509</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653480676509</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修改了图片地址">
+      <created>1653480858537</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653480858537</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -210,7 +224,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加了一些文件和子文件" />
     <MESSAGE value="增加了一些图，完善了pbn的材料" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加了一些图，完善了pbn的材料" />
+    <MESSAGE value="修改了图片地址" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改了图片地址" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/article/puzzle_aiagent.md" />
@@ -355,8 +370,8 @@
     <entry file="file://$PROJECT_DIR$/article/product/PBN_mandala.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="300">
-            <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <first_editor relative-caret-position="50">
+            <caret line="36" column="130" selection-start-line="36" selection-start-column="130" selection-end-line="36" selection-end-column="130" />
           </first_editor>
           <second_editor />
         </state>
