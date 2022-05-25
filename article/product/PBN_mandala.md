@@ -3,7 +3,7 @@
 ### 1. 动机(Motivation)
 PBN产品中，内容具有决定性作用。线框图是内容的重要组成部分，制作线框图也是最耗时的工作。
 前期，我们探索了从内容（图像）中直接提取线框图，如下图所示。事实证明，这条路很难走通，
-![从图像中提取线框图](https://github.com/zjustarstar/dailybreadResearch.github.io/tree/gh-pages/article/product/imgs/mandala_motivation.png)
+![从图像中提取线框图](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/product/imgs/mandala_motivation.png)
 具体原因主要是：
 - PBN中的线框图都是以封闭区域进行表示的，直接从图像中，很难提取到具有光滑边界的闭合区域
 线框图。
@@ -26,14 +26,14 @@ PBN产品中，内容具有决定性作用。线框图是内容的重要组成�
 
 这些要求同时也是对算法设计的约束。我们在尝试了多种算法和技术路线后，最终完成了一套
 自动化的曼陀罗图案生成工具。整个系统的框架如下图所示：
-![曼陀罗图案生成框架](https://github.com/zjustarstar/dailybreadResearch.github.io/tree/gh-pages/article/product/imgs/mandala_flowchart.png)
+![曼陀罗图案生成框架](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/product/imgs/mandala_flowchart.png)
 
 
 ### 3. 成果(Results)
 该算法已落地交付给PBN产品线。我们最终完成了一套能自动生成常规曼陀罗图案和多边形曼陀罗图案的算法，该算法具有足够的
 创造性，每次运行均能生成不同的曼陀罗图案，且能根据样图进行自动上色。下面是一些我们的
 算法生成的曼陀罗图案。
-![曼陀罗效果图](https://github.com/zjustarstar/dailybreadResearch.github.io/tree/gh-pages/article/product/imgs/mandala_regular.png)
+![曼陀罗效果图](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/product/imgs/mandala_regular.png)
 ![曼陀罗效果图](https://github.com/zjustarstar/dailybreadResearch.github.io/tree/gh-pages/article/product/imgs/imgs/mandala_polygon.png)
 
 产品线也对算法自动生成的图案和设计师生成的图案进行了AB测。数据如下：
