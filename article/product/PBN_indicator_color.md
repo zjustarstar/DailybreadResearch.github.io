@@ -23,7 +23,7 @@
 目前整个算法已经交付PBN产品组，并已经作为工具上线，内嵌在产品线流程中。根据设计师的
 反馈，我们的工具不但可以代替设计师的上色工作，而且色彩的提取效果更符合原彩绘图。实际
 效果如下图所示。    
-![结果](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/product/imgs/clrindicator_result1.jpg)
-![结果](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/product/imgs/clrindicator_result2.jpg)
+![结果](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/product/imgs/clrindicator_result1.png)
+![结果](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/product/imgs/clrindicator_result2.png)
 
 
