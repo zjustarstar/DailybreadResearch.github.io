@@ -1,11 +1,11 @@
 # 纯色图提取
 
 ### 1. 动机(Motivation)
-如下图所示，基于线框图，并在参考原彩绘图的基础上，为线框图中的每个区域设定用户填充
-时用的指示性颜色，是一个必须的步骤。一般PBN产品中的线框图具有数十个，甚至数百个闭合
+如下图所示，基于线框图，并在参考原彩绘图的基础上，为线框图中的每个区域设定用户填充  
+时用的指示性颜色，是一个必须的步骤。一般PBN产品中的线框图具有数十个，甚至数百个闭合  
 的连通区域。要为每个区域设定与彩绘色彩相近的指示性颜色，会花费设计师大量时间。
 
-本项目拟设计一种自动化工具，利用算法提取与线框图区域相匹配的彩绘图区域的主要颜色，
+本项目拟设计一种自动化工具，利用算法提取与线框图区域相匹配的彩绘图区域的主要颜色，  
 并最终形成完整的纯色图，从而大大节省设计师在每个区域的颜色指定上花费的时间。  
 ![指示色](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/product/imgs/clrindicator_flowchart.jpg)
 
@@ -19,7 +19,7 @@
 + 算法具有通用性，能适应正方形的图和长方形的墙纸类图。
 
 ### 3. 成果(Results)
-目前整个算法已经交付PBN产品组，并已经作为工具上线，内嵌在产品线流程中。根据设计师的
+目前整个算法已经交付PBN产品组，并已经作为工具上线，内嵌在产品线流程中。根据设计师的  
 反馈，我们的工具不但可以代替设计师的上色工作，而且色彩的提取效果更符合原彩绘图。
 实际效果如下图所示。    
 ![结果](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/product/imgs/clrindicator_result1.png)
