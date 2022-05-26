@@ -19,8 +19,8 @@
 + 算法具有通用性，能适应正方形的图和长方形的墙纸类图。
 
 ### 3. 成果(Results)
-目前整个算法已经交付PBN产品组，并已经作为工具上线，内嵌在产品线流程中。根据设计师的
-反馈，**我们的工具不但可以代替设计师的上色工作，而且色彩的提取效果更符合原彩绘图**。
+目前整个算法已经交付PBN产品组，并**已经作为工具上线**，内嵌在产品线流程中。根据设计师的
+反馈，我们的工具**不但可以代替设计师的上色工作，而且色彩的提取效果更符合原彩绘图**。
 实际效果如下图所示。    
 ![结果](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/product/imgs/clrindicator_result1.png)
 ![结果](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/product/imgs/clrindicator_result2.png)
