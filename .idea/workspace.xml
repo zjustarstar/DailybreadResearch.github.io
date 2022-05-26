@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdeb43d0-c145-4885-9f55-b51dd1ff10f2" name="Default Changelist" comment="修改了图片地址">
+    <list default="true" id="fdeb43d0-c145-4885-9f55-b51dd1ff10f2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/article/product/PBN_indicator_color.md" beforeDir="false" afterPath="$PROJECT_DIR$/article/product/PBN_indicator_color.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +38,8 @@
         <entry file="file://$PROJECT_DIR$/article/product/PBN_indicator_color.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="250">
-                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <first_editor relative-caret-position="125">
+                <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
               </first_editor>
               <second_editor />
             </state>
@@ -50,7 +51,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="75">
-                <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+                <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
               </first_editor>
               <second_editor />
             </state>
@@ -229,11 +230,33 @@
       <option name="project" value="LOCAL" />
       <updated>1653564250559</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="增加了纯色提取工作的介绍">
+      <created>1653564504840</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1653564504841</updated>
+    </task>
+    <task id="LOCAL-00012" summary="增加了纯色提取工作的介绍">
+      <created>1653564681013</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1653564681013</updated>
+    </task>
+    <task id="LOCAL-00013" summary="增加了纯色提取工作的介绍">
+      <created>1653564834205</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1653564834205</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1731533" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -257,9 +280,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加了一些文件和子文件" />
     <MESSAGE value="增加了一些图，完善了pbn的材料" />
-    <MESSAGE value="增加了纯色提取工作的介绍" />
     <MESSAGE value="修改了图片地址" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改了图片地址" />
+    <MESSAGE value="增加了纯色提取工作的介绍" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加了纯色提取工作的介绍" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/article/puzzle_aiagent.md" />
@@ -395,7 +418,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="75">
-            <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+            <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
           </first_editor>
           <second_editor />
         </state>
@@ -404,8 +427,8 @@
     <entry file="file://$PROJECT_DIR$/article/product/PBN_indicator_color.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="250">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <first_editor relative-caret-position="125">
+            <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
           </first_editor>
           <second_editor />
         </state>
