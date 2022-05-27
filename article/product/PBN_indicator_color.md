@@ -5,7 +5,7 @@
 时用的指示性颜色，是一个必须的步骤。一般PBN产品中的线框图具有数十个，甚至数百个闭合
 的连通区域。要为每个区域设定与彩绘色彩相近的指示性颜色，**会花费设计师不少时间**。
 
-本项目拟设计一种自动化工具，利用算法提取与线框图区域相匹配的彩绘图区域的主要颜色，  
+本项目拟设计一种自动化工具，利用算法提取与线框图区域相匹配的彩绘图区域的主要颜色，
 并最终形成完整的纯色图，从而大大节省设计师在每个区域的颜色指定上花费的时间。  
 ![指示色](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/product/imgs/clrindicator_flowchart.jpg)
 
