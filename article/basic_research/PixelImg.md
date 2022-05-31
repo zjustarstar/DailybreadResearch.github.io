@@ -9,8 +9,8 @@
 ### 2. 研究内容（Research)
 ![PixelMe](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/basic_research/imgs/pixel_pixelme.png)
 
-现有基于输入的图像生成像素画的工具其实不少，比如PixeleMe(https://pixel-me.tokyo/en/),
-Pixelator(http://pixelatorapp.com/index.html)等等，但是使用过后，我们发现效果往往达不到
+现有基于输入的图像生成像素画的工具其实不少，比如PixelMe(https://pixel-me.tokyo/en/),
+Pixelator(<http://pixelatorapp.com/index.html>)等等，但是使用过后，我们发现效果往往达不到
 要求。另外，还有部分论文[1]也提出了一些像素画的自动生成算法，甚至TOG上还发表过基于端到
 端神经网络[2]的像素图自动生成算法。但是经过测试，已有的工具或者算法均不能满足实际产品上
 的需求。这些需求包括：

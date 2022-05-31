@@ -4,7 +4,7 @@
   "children": [
     {
       "label": "Puzzle类谜面生成",
-      "filename": "base_research.md",
+      "filename": "puzzle.md",
       "children": [
         {
           "label": "HappyPixel",
@@ -27,6 +27,7 @@
    
     {
       "label": "产品线支持",
+      "filename": "PBN.md",
       "children": [
         {
           "label": "PBN-曼陀罗图自动生成",
@@ -49,6 +50,7 @@
 
     {
       "label": "基础研究",
+      "filename": "base_research.md",
       "children": [
         {
           "label": "相似图像检索",
