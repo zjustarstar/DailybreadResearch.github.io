@@ -33,8 +33,8 @@
 
 ### 3. 成果(Results)
 为了满足实际落地的需求，本项目花费了数月，特别是在假阳性的判断上，我们结合了传统图像处理的方法和
-神经网络方法，取得了很好的结果。经过实际设计师的测试，该工具能高效的检测线框图中低于2px的细线，
-以及距离不超过10px的断点。目前该工具已交付PBN组，接下来会整合到公司的业务流程中。
+神经网络方法，取得了很好的结果。**经过实际设计师的测试，该工具能高效的检测线框图中低于2px的细线，
+以及距离不超过10px的断点，满足业务需求**。目前该工具已交付PBN组，接下来会整合到公司的业务流程中。
 下面是一些检测结果示例(原图过大，仅截取部分)。在细线检测环境，我们还用不同的颜色对一般细线和超细细线进行区分标示。
 ![细线结果](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/product/imgs/schecker_res_thin.png)
 ![断点结果](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/product/imgs/schecker_res_broken.png)
