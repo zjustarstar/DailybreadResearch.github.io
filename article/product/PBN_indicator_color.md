@@ -21,6 +21,8 @@
 ### 3. 成果(Results)
 目前整个算法已经交付PBN产品组，并**已经作为工具上线**，内嵌在产品线流程中。根据设计师的
 反馈，我们的工具**不但可以代替设计师的上色工作，而且色彩的提取效果更符合原彩绘图**。
+根据实际设计师在使用本工具后的量化评估，我们的产品可以为每位设计师节省20-40分钟，
+平均效率提高了20-60%，大大提高了制图效率。特别是对于复杂制图，则效率提高的更多。
 实际效果如下图所示。 其中，左图为彩绘图，右图为算法提取出的每个封闭区域的指示性颜色(纯色)。
 ![结果](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/product/imgs/clrindicator_result1.png)
 ![结果](https://raw.githubusercontent.com/zjustarstar/dailybreadResearch.github.io/gh-pages/article/product/imgs/clrindicator_result2.png)
